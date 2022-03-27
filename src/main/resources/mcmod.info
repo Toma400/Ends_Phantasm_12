@@ -1,0 +1,16 @@
+[
+{
+  "modid": "phantasm",
+  "name": "End's Phantasm",
+  "description": "Small End-expanding mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://www.curseforge.com/minecraft/mc-mods/phantasm",
+  "updateUrl": "",
+  "authorList": ["Toma400 - porting EP to 1.12.2, Lyof - original author of 1.16+ End's Phantasm"],
+  "credits": "Toma400, Lyof, DylanVHS",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
