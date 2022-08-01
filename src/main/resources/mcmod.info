@@ -9,7 +9,7 @@
   "updateUrl": "",
   "authorList": ["Toma400 - porting EP to 1.12.2, Lyof - original author of 1.16+ End's Phantasm"],
   "credits": "Toma400, Lyof, DylanVHS",
-  "logoFile": "",
+  "logoFile": "eplogo.png",
   "screenshots": [],
   "dependencies": []
 }
